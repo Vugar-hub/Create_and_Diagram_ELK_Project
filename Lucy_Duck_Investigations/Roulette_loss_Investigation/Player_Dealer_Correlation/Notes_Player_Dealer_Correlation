@@ -1,0 +1,52 @@
+#STEP 1: We found losses spesific dates and times. 
+0310_win_loss_player_data:05:00:00 AM
+0310_win_loss_player_data:08:00:00 AM
+0310_win_loss_player_data:02:00:00 PM
+0310_win_loss_player_data:08:00:00 PM
+0310_win_loss_player_data:11:00:00 PM
+0312_win_loss_player_data:05:00:00 AM
+0312_win_loss_player_data:08:00:00 AM
+0312_win_loss_player_data:02:00:00 PM
+0312_win_loss_player_data:08:00:00 PM
+0312_win_loss_player_data:11:00:00 PM
+0315_win_loss_player_data:05:00:00 AM
+0315_win_loss_player_data:08:00:00 AM
+0315_win_loss_player_data:02:00:00 PM
+#STEP 2: We found who lost money at these dates and times.
+1:Mylie
+2:Mylie
+3:Mylie
+4:Mylie
+5:Mylie
+6:Mylie
+7:Mylie
+8:Mylie
+9:Mylie
+10:Mylie
+11:Mylie
+12:Mylie
+13:Mylie
+#STEP 3: How many times does Mylie "lost" money
+13
+#STEP 4: Who was the dealer of Roulette game at these dates and times.
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+
+#STEP 5: How many times 
+13
+#NOTE: I located these 
+#0310_Dealer_schedule 
+#0312_Dealer_schedule 
+#0315_Dealer_schedule
+#files to the Player_Dealer_Correlation directory to make script run properly.
