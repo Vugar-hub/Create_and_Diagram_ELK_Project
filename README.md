@@ -88,3 +88,6 @@ SSH into the control node and follow the steps below:
 - Update the "hosts" file to include IP addresses associated to specific VMs. -- In hosts file you must specify Server groups and add IP addresses associatedto this servers.
 - Run the playbook, and navigate to "http://40.78.8.159:5601/" to check that the installation worked as expected. --This is my ELK-Server URL and Elasticsearch runs on it.
 
+Run command for ansible playbook:
+
+ansible-playbook -i vyos.example.net, -u ansible -k -e ansible_network_os=vyos first_playbook.yml
